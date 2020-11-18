@@ -1,0 +1,4 @@
+D:\Program\Visual kod\Discret_labs3\Debug\Discret_labs3.exe
+D:\Program\Visual kod\Discret_labs3\Debug\Discret_labs3.pdb
+D:\Program\Visual kod\Discret labs\Discret_labs3\Debug\Discret_labs3.exe
+D:\Program\Visual kod\Discret labs\Discret_labs3\Debug\Discret_labs3.pdb
